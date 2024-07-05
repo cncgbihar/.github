@@ -1,5 +1,8 @@
 # CNCF Bihar - A Catalyst for Cloud Native Technology
 
+<a href="" target="_blank"><img width="150" height="150" src="/images/cover-image.png" alt="CNCG BIHAR"></a>
+
+
 ## Welcome
 
 Greetings from CNCF Bihar, a cloud-native technology catalyst! We believe that cloud-native computing has the potential to change lives by transforming how we develop, deploy, and scale applications. Our focus areas include innovations in Kubernetes, microservices, serverless architecture, and observability.
