@@ -1,5 +1,8 @@
 # CNCF Bihar - A Catalyst for Cloud Native Technology
 
+<a href="https://community.cncf.io/cloud-native-bihar/" target="_blank"><img width="100%" height="100%" src="https://raw.githubusercontent.com/cncgbihar/.github/main/images/cover-image.png" alt="CNCG BIHAR"></a>
+
+
 ## Welcome
 
 Greetings from CNCF Bihar, a cloud-native technology catalyst! We believe that cloud-native computing has the potential to change lives by transforming how we develop, deploy, and scale applications. Our focus areas include innovations in Kubernetes, microservices, serverless architecture, and observability.
@@ -45,3 +48,4 @@ Join us in the cloud revolution at the heart of Bihar! Be a part of a dynamic co
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
