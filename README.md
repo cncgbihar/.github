@@ -1,6 +1,6 @@
 # CNCF Bihar - A Catalyst for Cloud Native Technology
 
-<a href="" target="_blank"><img width="150" height="150" src="/images/cover-image.png" alt="CNCG BIHAR"></a>
+<a href="https://community.cncf.io/cloud-native-bihar/" target="_blank"><img width="100%" height="100%" src="https://raw.githubusercontent.com/cncgbihar/.github/main/images/cover-image.png" alt="CNCG BIHAR"></a>
 
 
 ## Welcome
